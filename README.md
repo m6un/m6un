@@ -10,5 +10,5 @@ Here are some ideas to get you started:-->
 - 🔭 I’m currently working on ReactJS
 - 🌱 I’m currently learning Redux
 - 👯 I’m looking to collaborate on ReactJs, Django
-- 💬 Let's grab a :Tea on Tech, Design, Geopolitics
+- 💬 Let's grab a ☕ on Tech, Design, Geopolitics
 - 📫 How to reach me: midhunchandran511@gmail.com
